@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhsinertugan
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning React and JS
+- 🌱 I’m currently learning React, JS and Typescript
 
 
 <!---
